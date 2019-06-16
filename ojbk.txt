@@ -1,0 +1,110 @@
+ssrmu 脚本：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+
+BBR/锐速 脚本：
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+KCPTun 脚本：
+wget --no-check-certificate https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh && chmod +x ./kcptun.sh && ./kcptun.sh
+
+iptables封禁：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh
+
+
+KCPTun客户端核心（注意系统平台）：https://github.com/xtaci/kcptun/releases
+KCPTun图形界面（win）：https://github.com/dfdragon/kcptun_gclient/releases
+windows下载上面两个，将里面的程序解压到同一个目录，使用的时候记得在图形界面程序中导入核心client程序
+
+KCPTun安卓（谷歌市场也有）：https://github.com/shadowsocks/kcptun-android/releases
+
+【SSR客户端】
+微软-Windows:
+https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
+安卓-Android:
+https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/
+苹果-Mac:
+https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases
+苹果-IOS:
+Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，可以用美区的apple id账号来下载。
+如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填）。
+在大陆app商店里面可以尝试搜索：Wingy、shadowsock，如果软件都被下架了，建议自己注册美区appid来下载，软件多的很！
+
+
+
+
+
+
+#编辑定时任务
+crontab -e
+
+#查看定时任务
+crontab -l
+
+#重启快捷命令
+/etc/init.d/ssrmu restart
+
+#删除日志快捷命令
+rm -rf /usr/local/shadowsocksr/ssserver.log
+ssrmu 脚本：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+
+BBR/锐速 脚本：
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
+KCPTun 脚本：
+wget --no-check-certificate https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh && chmod +x ./kcptun.sh && ./kcptun.sh
+
+iptables封禁：
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh
+
+
+KCPTun客户端核心（注意系统平台）：https://github.com/xtaci/kcptun/releases
+KCPTun图形界面（win）：https://github.com/dfdragon/kcptun_gclient/releases
+windows下载上面两个，将里面的程序解压到同一个目录，使用的时候记得在图形界面程序中导入核心client程序
+
+KCPTun安卓（谷歌市场也有）：https://github.com/shadowsocks/kcptun-android/releases
+
+【SSR客户端】
+微软-Windows:
+https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
+安卓-Android:
+https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/
+苹果-Mac:
+https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases
+苹果-IOS:
+Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，可以用美区的apple id账号来下载。
+如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填）。
+在大陆app商店里面可以尝试搜索：Wingy、shadowsock，如果软件都被下架了，建议自己注册美区appid来下载，软件多的很！
+
+
+
+
+
+
+#编辑定时任务
+crontab -e
+
+#查看定时任务
+crontab -l
+
+#重启快捷命令
+/etc/init.d/ssrmu restart
+
+#删除日志快捷命令
+rm -rf /usr/local/shadowsocksr/ssserver.log
+
+#一个完整的例子（每小时的第一分钟）
+1 * * * * date >> ~/log.log 2>&1
+1 * * * * rm -rf /usr/local/shadowsocksr/ssserver.log >> ~/log.log 2>&1
+1 * * * * /etc/init.d/ssrmu restart >> ~/log.log 2>&1
+
+#查看日志文件
+tail ~/log.log
+
+#一个完整的例子（每小时的第一分钟）
+1 * * * * date >> ~/log.log 2>&1
+1 * * * * rm -rf /usr/local/shadowsocksr/ssserver.log >> ~/log.log 2>&1
+1 * * * * /etc/init.d/ssrmu restart >> ~/log.log 2>&1
+
+#查看日志文件
+tail ~/log.log
