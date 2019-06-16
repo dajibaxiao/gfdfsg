@@ -77,10 +77,6 @@ Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软�
 在大陆app商店里面可以尝试搜索：Wingy、shadowsock，如果软件都被下架了，建议自己注册美区appid来下载，软件多的很！
 
 
-
-
-
-
 #编辑定时任务
 crontab -e
 
