@@ -1,4 +1,4 @@
-ssr
+my code store
 ======
 
-shadowrocket rule
+my code store
