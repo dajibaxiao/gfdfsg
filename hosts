@@ -1,0 +1,135 @@
+#2020-02-27
+##
+# Host Database
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1    localhost
+255.255.255.255 broadcasthost
+::1      localhost
+#172.217.5.108 www.googleapis.com
+127.0.0.1       124.167.236.150
+127.0.0.1       app-measurement.com
+#jsbox
+127.0.0.1       xteko.com
+127.0.0.1       www.xteko.com
+#googleAD
+127.0.0.1       googleads.g.doubleclick.com
+#repo is right host
+#37.59.46.19       repo.hackyouriphone.org
+#github 
+151.101.100.133       raw.githubusercontent.com
+151.101.100.133       gits.github.com
+151.101.100.133       github.com
+
+##
+# Host Database
+#
+# localhost is used to configure the loopback 
+interface
+# when the system is booting.  Do not change this 
+entry.
+##
+127.0.0.1	localhost 
+255.255.255.255	broadcasthost
+::1 localhost
+#SB repo
+127.0.0.1 apt.cydiami.com
+127.0.0.1 apt.cydiakk.com
+#127.0.0.1 wxhook.xin
+#127.0.0.1 cydiabc.top
+#17.248.161.109 gateway.icloud.com
+#127.0.0.1 apt.flex2areo.com
+#127.0.0.1 apt.ss03.cn
+127.0.0.1 uop.umeng.com
+127.0.0.1 irs01.com
+127.0.0.1 irs01.net
+127.0.0.1 irs01.cn
+127.0.0.1 irs01.com.cn
+#xunlei download kill
+127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+#xunleiAD,googleAD,umengAD
+127.0.0.1       csi.gstatic.com
+127.0.0.1       us01.dspunion.com
+127.0.0.1       pagead2.googlesyndication.com
+127.0.0.1       pagead.googlesyndication.com
+127.0.0.1       pagead5.googlesyndication.com
+127.0.0.1       pagead6.googlesyndication.com
+127.0.0.1       pagead7.googlesyndication.com
+127.0.0.1       pagead8.googlesyndication.com
+127.0.0.1       pagead9.googlesyndication.com
+127.0.0.1       pagead0.googlesyndication.com
+127.0.0.1       pagead1.googlesyndication.com
+127.0.0.1       pagead2.googlesyndication.com
+127.0.0.1       pagead3.googlesyndication.com
+127.0.0.1       pagead4.googlesyndication.com
+127.0.0.1       googleads.g.doubleclick.net
+127.0.0.1       alog.umeng.com
+127.0.0.1       alog.umengcloud.com
+127.0.0.1 alogs.umengcloud.com
+#203.208.50.88 clients4.google.com
+127.0.0.1 alogs.umeng.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 api.rbtdigital.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 agead2.googleadservices.com
+127.0.0.1 my.mobfox.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 lh3.googleadsserving.cn
+127.0.0.1 redirector.gvt1.com
+127.0.0.1 r5---sn-2x3eln7e.gvt1.com
+127.0.0.1 tracker.mtrtb.com
+#127.0.0.1 p52-buy.itunes.apple.com
+127.0.0.1 alkutbay.starbolt.io
+127.0.0.1 r9---sn-2x3eln76.gvt1.com
+#127.0.0.1 p70-buy.itunes.apple.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 dc.haizirv.cn
+127.0.01 image.haizirv.cn
+
+127.0.0.1 mi.gdt.qq.com 
+127.0.0.1 pgdt.ugdtimg.com 
+127.0.0.1 v.gdt.qq.com 
+127.0.0.1 adsp.xunlei.com 
+#104.18.54.250 doub.io
+127.0.0.1 static.m.sjzhushou.com
+127.0.0.1 i.l.inmobicdn.cn 
+127.0.0.1 sl.image.7niu.n0808.com 
+127.0.0.1 img.user.kanimg.com 
+127.0.0.1 click.ambimob.com 
+127.0.0.1 api.cloudmobi.net 
+127.0.0.1 global.appnext.com 
+127.0.0.1 logger.cloudmobi.net 
+127.0.0.1 cdn.cn.ctcnpa.com 
+127.0.0.1 asdkd.tutuapp.com 
+127.0.0.1 res.ctcnpa.com 
+127.0.0.1 appnext.hs.llnwd.net
+127.0.0.1 xfile.a.88cdn.com
+#googleMaps
+203.208.40.55 maps.google.com
+108.177.103.163 map.google.com
+172.217.6.127 maps.gstatic.com
+203.208.40.55 maps.googleapis.com
+74.125.206.210	maps-api-ssl.google.com
+112.253.26.139 7xnusr.com1.z0.glb.clouddn.com
+#appstore
+#117.18.237.29       ocsp.digicert.com
+#72.21.91.29       ocsp.digicert.com
+#AppleUpdateBlock
+#127.0.0.1       gdmf.apple.com
+#127.0.0.1       mesu.apple.com
+#127.0.0.1       swscan.apple.com
+#127.0.0.1       appldnld.apple.com
+#127.0.0.1       xp.apple.com
+#wechat xiaoyiba
+#61.160.195.229       dddjb.cn
+#61.160.195.229       apt.dddjb.cn
+#AD
+0.0.0.0       activity.douin.xyz
+
+
+#127.0.0.1 ocsp.apple.com
+127.0.0.1 cydia.kiiimo.org
