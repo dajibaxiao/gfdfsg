@@ -21,7 +21,10 @@
 151.101.100.133       raw.githubusercontent.com
 151.101.100.133       gits.github.com
 151.101.100.133       github.com
-
+#adobe flash CN
+0.0.0.0 flash.cn
+0.0.0.0 www.flash.cn
+0.0.0.0 geo2.adobe.com
 ##
 # Host Database
 #
