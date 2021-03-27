@@ -1,0 +1,68 @@
+deb https://netskao.github.io/akusio-Repo-Mirror/ ./
+deb https://evynw.github.io/ ./
+deb http://geekpwn.asuscomm.com:8848/repo/ ./
+deb https://getzbra.com/repo/ ./
+deb http://ib-soft.net/cydia/ ./
+deb https://jpet26.yourepo.com/ ./
+deb https://repo.dynastic.co/ ./
+deb https://repo.co.kr/ ./
+deb https://deontw.github.io/repo/ ./
+deb https://apt.initnil.com/ ./
+deb http://brendonjkding.github.io/ ./
+deb https://sileo.top/ ./
+deb http://cydia.wuffs.org/ ./
+deb https://cydia.akemi.ai/ ./
+deb https://apt.167025.cn/ ./
+deb https://apt.sutuplus.com/ ./
+deb https://repo.1conan.com/ ./
+deb http://cokepokes.github.io/ ./
+deb http://apt.ss03.cn/ ./
+deb http://repo.hackyouriphone.org/ ./
+deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb https://ibreak.yourepo.com/ ./
+deb https://opa334.github.io/beta/ ./
+deb http://cydia.ppsspp.org/ ./
+deb http://apt.modmyi.com/ stable main
+deb https://repo.initnil.com/ ./
+deb https://apt.cydiaba.cn/ ./
+deb https://repo.packix.com/ ./
+deb https://c1d3r.com/repo/ ./
+deb https://apt.procurs.us/ iphoneos-arm64/1500 main
+deb http://getdelta.co/ ./
+deb http://apt.ipcydia.top/ ./
+deb https://halo-michael.github.io/repo/ ./
+deb https://soda-ldz.yourepo.com/ ./
+deb http://tigisoftware.com/cydia/ ./
+deb https://opa334.github.io/ ./
+deb https://julio.hackyouriphone.org/ ./
+deb https://apt.cydia.top/ ./
+deb https://samgisaninja.github.io/ ./
+deb https://repo.acreson.cn/ ./
+deb http://repo.incendo.ws/ ./
+deb http://twjacy.top/tweaks/ ./
+deb https://wstclzy2010.github.io/repo/ ./
+deb https://dada.yourepo.com/ ./
+deb http://julioverne.github.io/ ./
+deb http://mirrors.ustc.edu.cn/xbmc/apt/ios/ ./
+deb http://apt.25mao.com/ ./
+deb https://repo.chariz.com/ ./
+deb https://pwnders.github.io/repo/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb https://xtm3x.github.io/repo/ ./
+deb https://apt.dddjb.cn/ ./
+deb https://ios.jjolano.me/ ./
+deb https://level3tjg.xyz/repo/ ./
+deb https://aquawu.github.io/igg/ ./
+deb http://www.tateu.net/repo/ ./
+deb https://jakeashacks.net/cydia/ ./
+deb https://xia0z.github.io/ ./
+deb http://apt.tinyapps.cn/ ./
+deb https://repo.cadoth.net/ ./
+deb http://cydia.angelxwind.net/webstack/ ./
+deb https://repounclutter.coolstar.org/ ./
+deb https://zsbai.github.io/repo/ ./
+deb https://ryleyangus.com/repo/ ./
+deb https://repo.chimera.sh/ ./
+
+# Added at 2021-03-27 15:08:52 +0000
+deb https://cydia.editornah.top/ ./
