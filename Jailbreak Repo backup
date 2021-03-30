@@ -1,3 +1,4 @@
+deb http://mirror.acreson.cn/ ./
 deb https://netskao.github.io/akusio-Repo-Mirror/ ./
 deb https://evynw.github.io/ ./
 deb http://geekpwn.asuscomm.com:8848/repo/ ./
