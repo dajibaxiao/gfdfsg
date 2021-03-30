@@ -66,3 +66,341 @@ deb https://repo.chimera.sh/ ./
 
 # Added at 2021-03-27 15:08:52 +0000
 deb https://cydia.editornah.top/ ./
+
+deb https://samgisaninja.github.io/ ./
+deb https://repo.acreson.cn/ ./
+deb https://xtm3x.github.io/repo/ ./
+deb https://apt.dddjb.cn/ ./
+deb http://apt.25mao.com/ ./
+deb https://repo.netskao.com/ ./
+deb https://apt.netskao.com/ ./
+deb http://apt.ambier.cn/ ./
+deb http://getdelta.co/ ./
+deb http://tigisoftware.com/cydia/ ./
+deb https://crazyc.top/ ./
+deb https://opa334.github.io/beta/ ./
+deb https://opa334.github.io/ ./
+deb http://sutuplus.github.io/repo/ ./
+deb http://akusio.github.io/ ./
+deb https://apt.cydiaba.cn/ ./
+deb http://apt.ss03.cn/ ./
+deb https://rpetri.ch/repo/ ./
+deb https://repo.dynastic.co/ ./
+deb https://pulandres.me/repo/ ./
+deb https://c1d3r.com/repo/ ./
+deb http://repo.incendo.ws/ ./
+deb https://soda-ldz.yourepo.com/ ./
+deb https://ibreak.yourepo.com/ ./
+deb https://dada.yourepo.com/ ./
+deb https://cydia.akemi.ai/ ./
+deb http://ib-soft.net/cydia/ ./
+deb https://ryleyangus.com/repo/ ./
+deb https://repo.chimera.sh/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb http://apt.modmyi.com/ stable main
+deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb http://apt.tinyapps.cn/ ./
+deb https://evynw.github.io/ ./
+deb http://apt.saurik.com/ios/1570.15 main
+deb http://www.tateu.net/repo/ ./
+deb https://level3tjg.xyz/repo/ ./
+deb https://chr0nict.github.io/Nepeta-Mirror/ ./
+deb http://cydia.wuffs.org/ ./
+deb http://repo.hackyouriphone.org/ ./
+deb https://diatr.us/chicydia/ ./
+deb https://repo.packix.com/ ./
+deb https://repo.1conan.com/ ./
+deb https://repounclutter.coolstar.org/ ./
+deb https://repo.lenglengyu.top/ ./
+deb https://jpet26.yourepo.com/ ./
+deb http://ios.iikira.com/ ./
+deb https://getzbra.com/repo/ ./
+deb http://geekpwn.asuscomm.com:8848/repo/ ./
+deb http://cokepokes.github.io/ ./
+
+deb https://repo.netskao.net/ ./
+deb https://apt.dddjb.cn/ ./
+deb https://apt.cydiaba.cn/ ./
+deb http://apt.25mao.com/ ./
+deb https://apt.ambier.cn/ ./
+deb http://apt.thebigboss.org/repofiles/cydia/ stable main
+deb http://sutuplus.github.io/repo/ ./
+deb http://cydia.wuffs.org/ ./
+deb https://evynw.github.io/ ./
+deb http://getdelta.co/ ./
+deb http://cydia.zodttd.com/repo/cydia/ stable main
+deb https://level3tjg.xyz/repo/ ./
+deb http://apt.modmyi.com/ stable main
+deb https://c1d3r.com/repo/ ./
+deb http://geekpwn.asuscomm.com:8848/repo/ ./
+deb http://akusio.github.io/ ./
+deb https://sileo.top/ ./
+deb https://chr0nict.github.io/Nepeta-Mirror/ ./
+deb https://getzbra.com/beta/ ./
+deb https://getzbra.com/repo/ ./
+deb http://apt.ss03.cn/ ./
+deb https://apt.nuosike.cn/ ./
+deb http://ib-soft.net/cydia/ ./
+deb https://opa334.github.io/ ./
+
+
+
+deb https://opa334.github.io/beta/ ./
+deb https://repo.dynastic.co/ ./
+deb http://apt.tinyapps.cn/ ./
+deb https://repo.chimera.sh/ ./
+deb https://rpetri.ch/repo/ ./
+deb https://xtm3x.github.io/repo/ ./
+deb https://ios.jjolano.me/ ./
+deb https://cydia.akemi.ai/ ./
+deb http://www.tateu.net/repo/ ./
+deb https://jakeashacks.net/cydia/ ./
+deb http://tigisoftware.com/cydia/ ./
+deb https://diatr.us/chicydia/ ./
+deb https://repounclutter.coolstar.org/ ./
+deb https://repo.1conan.com/ ./
+deb https://dada.yourepo.com/ ./
+deb https://pulandres.me/repo/ ./
+deb http://repo.incendo.ws/ ./
+deb https://soda-ldz.yourepo.com/ ./
+deb https://ryleyangus.com/repo/ ./
+deb https://ibreak.yourepo.com/ ./
+deb http://repo.hackyouriphone.org/ ./
+deb https://jpet26.yourepo.com/ ./
+deb https://repo.packix.com/ ./
+deb http://mirrors.ustc.edu.cn/xbmc/apt/ios/ ./
+deb https://xsf1re.github.io/repo/ ./
+deb https://repo.chariz.com/ ./
+deb http://cydia.angelxwind.net/webstack/ ./
+deb http://arab-cydia.com/repo/ ./
+deb http://apt.setwood.cn/ ./
+deb https://rejail.ru/ ./
+deb http://aquawu.github.io/igg/ ./
+deb http://julioverne.github.io/ ./
+deb https://julio.hackyouriphone.org/ ./
+deb http://cydia.ichitaso.com/ ./
+deb https://subdiox.com/cydia/ ./
+deb https://repo.rpgfarm.com/ ./
+deb https://openpack.io/ ./
+deb https://repo.conorthedev.me/ ./
+deb http://itsjafer.com/repo/ ./
+deb http://apt.autotouch.net/ ./
+deb https://halo-michael.github.io/repo/ ./
+
+https://apt.25mao.com/
+https://repo.acreson.cn/ 
+http://apt.htv123.com/
+http://apt.netskao.com/
+https://repo.nullpixel.uk/
+https://ryleyangus.com/repo/
+http://tigisoftware.com/cydia/
+http://repo.rpgfarm.com/
+https://beta.unlimapps.com/
+https://xsf1re.github.io/repo/
+https://cydia.ichitaso.com/
+https://repo.openpack.io/
+https://samgisaninja.github.io/
+https://ios.jjolano.me/
+https://getzbra.com/repo/
+https://diatr.us/sileo/
+https://cydia.akemi.ai/
+https://xtm3x.github.io/repo/
+http://akusio.github.io/
+https://rpetri.ch/repo/
+https://mrmadtw.github.io/repo/
+
+https://ibreak.yourepo.com/
+
+http://apt.ss03.cn/ 
+
+http://julioverne.github.io/
+
+https://repo.tihmstar.net/
+
+https://skitty.xyz/repo/
+
+https://repo.getsileo.app/
+
+https://mrmadjb.github.io/
+
+
+
+https://parrotgeek.com/repo/
+
+https://repo.incendo.ws/
+
+https://julio.hackyouriphone.org/
+
+http://sparkdev.me/
+
+http://limneos.net/repo/
+http://getdelta.co/
+https://paxcex.github.io/
+https://cokepokes.github.io/
+https://repo.hackyouriphone.org/
+https://coolstar.org/publicrepo/
+http://repo.tetherme.net/licensed/
+https://itsjafer.com/repo/
+https://repo.cpdigitaldarkroom.com/
+http://repo.initnil.com/
+https://subdiox.com/cydia/
+http://ib-soft.net/cydia/
+https://apptapp.me/repo/
+http://Junesiphone.com
+http://apt.ipcydia.top
+https://parrotgeek.com/repo/
+https://repo.mtac.app/
+https://creaturesurvive.github.io
+
+
+排骨源(排骨大大个人插件源)
+https://wstclzy2010.github.io/repo/
+
+土拨鼠源(土拨鼠个人插件源)
+https://repo.ejiaogl.com/
+
+苏兔源(微信主题等)
+http://apt.sutuplus.com/
+
+苏打源(微信美化资源)
+http://soda-ldz.yourepo.com/
+
+国外源：
+
+rpetrich源(Activator、RocketBootstrap等插件、依赖开发者)
+https://rpetri.ch/repo/
+
+明美源(Appsy Unified等插件开发者)
+https://cydia.akemi.ai/
+
+Packix源(目前很多正版插件源)
+https://repo.packix.com/
+
+Twichd源(新晋正版插件源)
+https://repo.twickd.com/
+
+Dynastic源(小型正版插件源，Bazzi2等插件上架)
+https://repo.dynastic.co/
+
+Rejail源(超多破解插件)
+https://rejail.ru/
+
+xsf1re源(FlyJB作者源)
+https://repo.xsf1re.kr/
+
+ichitaso个人源(PowerSelector、OTADisabler等插件开发者)
+https://cydia.ichitaso.com/
+
+afc后继作者
+ http://ichitaso.tk/apt/
+
+
+Ryley源(Liberty屏蔽越狱开发者者)
+https://ryleyangus.com/repo/
+
+Filza官方源
+http://tigisoftware.com/cydia/
+
+Flex3官方源
+http://getdelta.co/
+
+
+iCleaner Pro官方源
+https://ib-soft.net/cydia/
+
+
+iCleaner Pro测试源
+https://ib-soft.net/cydia/beta/
+
+opa334源(SarfariPlus开发者个人源)
+https://opa334.github.io/
+
+Zebra源(Zebra斑马官方源)
+https://getzbra.com/repo/
+
+Chariz源(NewTerm、Kalm、Cephei等插件上架源)
+https://repo.chariz.com/
+
+Julio佬源(著名的破解大佬，Cydown、CrackTool4等插件开发者)
+http://julio.hackyouriphone.org/
+
+Limneos源(CallBarXS、AudioRecorderXS等插件开发者)
+http://limneos.net/repo/
+
+SparkDev源(AutoUnlockX、Snowboard等插件开发者)
+http://sparkdev.me/
+
+CokePokes源(AppStore++作者源)
+http://cokepokes.github.io/
+
+
+akusio源(MilkyWay分屏、真后台开发者)
+https://akusio.github.io/
+
+c1d3r源(PullOver Pro分屏开发者)
+http://c1d3r.com/repo/
+
+ARX8x源(System Info作者源)
+https://apt.arx8x.net/
+
+CreatureCoding源(shuffle作者源)
+https://creaturecoding.com/repo/
+
+Creaturesurvive源(crux依赖源)
+https://creaturesurvive.github.io/
+
+MERONA源(Axon后续开发者)
+http://repo.co.kr/
+
+subdiox源(StoreSwithcher2作者源)
+http://subdiox.com/cydia/
+
+shiftcmdk源(PencilChargingIndicator充电弹窗开发者)
+https://shiftcmdk.github.io/repo/
+
+奥德赛越狱官方
+https://repo.theodyssey.dev
+
+acreson奥德赛依赖
+http://acreson.github.io/Odysseyelechimera
+
+milkway备份源
+https://netskao.github.io/akusio-Repo-Mirror/
+虚拟定位
+https://xia0z.github.io
+https://zsbai.github.io/repo/
+AltStore 源：
+https://pwnders.github.io/repo/
+bypass韩国开发者xsf1re
+http://repo.misty.moe/apt
+
+https://apt.htv123.com/
+https://apt.25mao.com/
+https://wstclzy2010.github.io/repo/
+http://repo.cydiabc.top
+https://deontw.github.io/akusio-Repo-Mirror/
+http://apt.thebigboss.org/repofiles/cydia/
+https://repo.chariz.com/
+https://deontw.github.io/repo/
+https://repo.dynastic.co/
+https://ib-soft.net/cydia/
+https://ios.jjolano.me/
+https://cydia.akemi.ai/
+https://limneos.net/repo
+https://repo.incendo.ws/
+https://repounclutter.coolstar.org/
+https://repo.initnil.com
+https://repo.theodyssey.dev/
+https://repo.packix.com/
+https://apt.procurs.us/
+https://apt.sutuplus.com
+https://repo.xsf1re.kr/
+https://tigisoftware.com/cydia/
+https://repo.tr1fecta.co
+http://captinc.github.io
+https://apt.167025.cn
+http://jose905.github.io/
+https://repo.cadoth.net
+
+盯盯打卡
+https://cydia.editornah.top/
